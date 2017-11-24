@@ -1,0 +1,238 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(01-案例介绍/完整可运行源代码/code/images/bg.png) no-repeat;
+}
+ul,li{
+	list-style: none;
+}
+#header{
+	width: 1000px;
+	height: 105px;
+	margin: 0 auto;
+}
+#logo{
+	width: 430px;
+	height: 105px;
+	float: left;
+}
+#zi{
+	width: 170px;
+	height: 20px;
+	color: #fff;
+	float: right;
+	margin-top:10px ;
+}
+#zi #img{
+	float: left;
+}
+
+#zi #a {
+	float: right;
+}
+#zi #a a{
+	color: #fff;
+	font-size: 12px;
+}
+#zi span{
+	font-size: 12px;
+}
+
+#content{
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	background: #fff;
+}
+#content #nav{
+	padding-top: 25px;
+	padding-left: 15px;
+	font-size: 12px;
+}
+#content #nav a{
+	color: #0880DC;
+	margin-right: 5px;
+}
+#content #nav span{
+	margin-left: 5px;
+}
+#content #nav #biaoti{
+	width: 970px;
+	height: 54px;
+	background: #F7F7F7;
+	border-top:2px solid #2A98DA;
+	margin-top: 10px;
+	text-align: center;
+}
+#content #nav #biaoti span{
+	line-height: 54px;
+	margin-left: 15px;
+	color:#000;
+	font-size: 18px;
+}
+#content #nav #biaoti .a{
+	margin-right: 40px;
+}
+#content #nav #biaoti .b{
+	margin-right: -25px;
+}
+#content #nav #biaoti .c{
+	margin-right: 40px;
+}
+#content #nav #biaoti .d{
+	margin-right: -25px;
+}
+#content #nav #biaoti .e{
+	color:#ff6600;
+}
+#content h4{
+	color: #333;
+	margin-top: 30px;
+	margin-left: 15px;
+	font-size: 14px;
+}
+#content #piaojia{
+	width: 970px;
+	height: 100px;
+	margin: 0 auto;
+	border: 1px solid #ACE0FF;
+	margin-top: 12px;
+}
+#content #piaojia p{
+	font-size: 12px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+#content #piaojia ul li{
+	margin-top:20px;
+	margin-left: 30px;
+	float: left;
+}
+#content #piaojia ul li span{
+	font-size: 13px;
+	
+}
+#content #piaojia ul li .qian{
+	color: #ff6600;
+}
+#content #piaojia ul li a{
+	font-size: 12px;
+	color: #0880DC;
+	text-decoration: none;
+	margin-left: 40px;
+}
+#content #chengchuanren{
+	width: 970px;
+	height: 150px;
+	margin: 0 auto;
+	border: 1px solid #ACE0FF;
+}
+#content #chengchuanren #changyong{
+	width: 950px;
+	height: 50px;
+	margin: 10px auto;
+	background:#F5F5F5;
+	border: 1px solid #ddd;
+}
+#content #chengchuanren #changyong p{
+	font-size: 13px;
+	line-height: 50px;
+	margin-left: 20px;
+	
+}
+#content #chengchuanren #changyong #input{
+	margin-top:-33px;
+	margin-left:120px;
+	font-size: 13px;
+}
+#content #chengchuanren #changyong #input a{
+	font-size: 12px;
+	color: #0880DC;
+	text-decoration: none;
+	margin-left: 40px;
+}
+#content #chengchuanren li{
+	float: left;
+	margin-left: 30px;
+	font-size: 14px;
+	margin-top: 10px;
+}
+#content #chengchuanren .f{
+	margin-left: 0;
+}
+#content #chengchuanren #zhong{
+	width: 940px;
+	height: 40px;
+	margin: 0 auto;
+	border-bottom: 1px solid#DDDDDD;
+}
+#content #chengchuanren .g{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#content #qupiaoren {
+	width: 970px;
+	height: 150px;
+	margin: 0 auto;
+	border: 1px solid #ACE0FF;
+}
+#content #qupiaoren #qupiao{
+	width: 950px;
+	height: 50px;
+	margin: 10px auto;
+	background:#F5F5F5;
+	border: 1px solid #ddd;
+}
+#content #qupiaoren #qupiao p{
+	font-size: 13px;
+	line-height: 50px;
+	margin-left: 20px;
+	
+}
+#content #qupiaoren #qupiao #input{
+	margin-top:-33px;
+	margin-left:120px;
+	font-size: 13px;
+}
+#content #qupiaoren #qupiao #input a{
+	font-size: 12px;
+	color: #0880DC;
+	text-decoration: none;
+	margin-left: 40px;
+}
+#content #dibu{
+	width: 970px;
+	height: 70px;
+	background:#fff8ee;
+	border: 1px solid #FED7A7;
+	margin: 30px auto;
+}
+#content #dibu #t{
+	margin-top: 30px;
+	margin-left: 600px;
+	font-size: 15px;
+}
+#content #dibu a{
+	display: block;
+	float: right;
+	margin-top: -30px;
+	margin-right: 20px;
+}
+#footer{
+	height: 120px;
+	color: #999;
+	background: #f5f5f5;
+}
+#footer ul{
+	padding-top: 20px;
+	text-align: center;
+}
+#footer ul li{
+	font-size: 12px;
+}
+#footer ul li span{
+	margin-left: 10px;
+}
